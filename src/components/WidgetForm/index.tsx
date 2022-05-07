@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { Closebutton } from '../CloseButton';
 
 import bugImageUrl from '../../assets/bug.svg';
 import ideaImageUrl from '../../assets/idea.svg';
